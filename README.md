@@ -1,1 +1,4 @@
 # DigSteg
+Our Java-based digital steganography project is a powerful and innovative tool for concealing sensitive information within digital media, such as images, audio files, and videos. Leveraging advanced techniques in data hiding, this project offers seamless and secure data encryption and embedding. Users can encode their confidential data into seemingly innocuous files, making it virtually undetectable to the naked eye or ear.
+
+The project provides an intuitive and user-friendly interface, allowing both novice and experienced users to effortlessly hide and retrieve hidden data. It employs cutting-edge encryption algorithms and steganographic methods, ensuring data integrity and security. This Java-based steganography solution is not only a valuable tool for privacy-conscious individuals but also a fascinating exploration of the intersection between technology and secrecy.
